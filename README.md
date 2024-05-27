@@ -32,7 +32,7 @@ Follow these instructions to set up and run the Bookhub application locally on y
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/SOUMYARANJAN-SAHOO/Bookhub.git
+   git clone https://github.com/Satyajit2206/Bookhub.git
    ``` 
 2. Change to the project directory:
 
