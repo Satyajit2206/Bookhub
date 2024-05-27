@@ -93,7 +93,6 @@ If you would like to contribute to the development of Bookhub, please follow the
 
 If you have any questions or suggestions regarding this project, please feel free to contact the project owner:
 
-- Name: Soumyaranjan Sahoo
-- Email: sahusoumyaranjans123@gmail.com
+- Name: Satyajit Patnaik
+- Email: spatnaik931@gmail.com
 
-You can also open an issue on the [GitHub repository](https://github.com/SOUMYARANJAN-SAHOO/Bookhub) if you encounter any problems or have ideas for improvements. Your feedback is highly appreciated!
